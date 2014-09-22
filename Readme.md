@@ -21,6 +21,9 @@
   - Proxy:
     - Haproxy
 
+  - Git hosting
+    - http://gogs.io/ (in Golang!)
+
 
 ## Team / Remote Work
 
