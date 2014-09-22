@@ -7,6 +7,10 @@
       A memcached protocol router for scaling memcached deployments
       - https://github.com/facebook/mcrouter
       - https://code.facebook.com/posts/296442737213493/introducing-mcrouter-a-memcached-protocol-router-for-scaling-memcached-deployments/
+      
+  - Security
+    - Blackbox: http://www.slideshare.net/TomLimoncelli/the-blackbox-project-sfae
+    - https://github.com/StackExchange/blackbox
 
   - DB
     - Redis
