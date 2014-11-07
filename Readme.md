@@ -13,7 +13,9 @@
     - https://github.com/StackExchange/blackbox
 
   - DB
+    - https://github.com/Qihoo360/Atlas -> A high-performance and stable mysql proxy
     - Redis
+    - TokuDB -> http://www.tokutek.com/tokudb-for-mysql/
 
   - Search
     - ElasticSearch
