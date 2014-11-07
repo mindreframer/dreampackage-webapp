@@ -11,6 +11,7 @@
   - Security
     - Blackbox: http://www.slideshare.net/TomLimoncelli/the-blackbox-project-sfae
     - https://github.com/StackExchange/blackbox
+    - https://github.com/oleiade/trousseau -> share secrets
 
   - DB
     - https://github.com/Qihoo360/Atlas -> A high-performance and stable mysql proxy
