@@ -23,6 +23,11 @@
     - Redis
     - TokuDB -> http://www.tokutek.com/tokudb-for-mysql/
 
+  Riak:
+    - ["Infinite Scale Gets Easier" - Discovering Riak 2 0 Webinar Series,  2014-11](https://www.youtube.com/watch?v=L1x1wEhEP-I)
+    - ["Deep Dive on Riak 2.0 Data Types" - Discovering Riak 2 0 Webinar Series,  2014-11](https://www.youtube.com/watch?v=XXzkwlJGF3I)
+    - ["Using Solr to Find Your Keys" - Discovering Riak 2 0 Webinar Series,  2014-11](https://www.youtube.com/watch?v=_XNRMo0L5a8)
+
   - Search
     - ElasticSearch
 
