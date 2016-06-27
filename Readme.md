@@ -21,7 +21,8 @@
   - DB
     - https://github.com/Qihoo360/Atlas -> A high-performance and stable mysql proxy
     - Redis
-    - TokuDB -> http://www.tokutek.com/tokudb-for-mysql/
+    - [ArangoDB](https://www.arangodb.com/)
+    - [RethinkDB](https://www.rethinkdb.com/)
 
   Riak:
     - ["Infinite Scale Gets Easier" - Discovering Riak 2 0 Webinar Series,  2014-11](https://www.youtube.com/watch?v=L1x1wEhEP-I)
@@ -54,8 +55,6 @@
     - [OJ](https://github.com/ohler55/oj)
     - [API VIEW](https://github.com/mindreframer/api_view)
 
-  -
-
 
 
 
@@ -65,3 +64,6 @@
   - iDoneThis
   - ScreenHero
 
+
+## Sales
+  - https://www.freshsales.io/pricing/
